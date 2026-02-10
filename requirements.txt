@@ -1,0 +1,6 @@
+streamlit>=1.36.0
+opencv-python>=4.9.0
+ultralytics>=8.2.0
+numpy>=1.26.0
+pandas>=2.2.0
+easyocr>=1.7.1
